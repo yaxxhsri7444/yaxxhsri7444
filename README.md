@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://saksham-angular-hosting.firebaseapp.com/hero" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit Portfolio-FF5722?style=for-the-badge&logo=angular&logoColor=white" alt="Portfolio Badge">
+    <img src="https://img.shields.io/badge/🌐 Visit Portfolio-FF5722?style=for-logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
 
@@ -56,10 +56,10 @@
 - 🛒 **E-commerce Website**  
   Shopping platform with cart, checkout, and product management.  
 
-- 🎓 **E-learning App** *(Ongoing)*  
+- 🎓 **E-learning App**
   Course management system with assignments and student dashboards.  
 
-- 💼 **Decentralized Job Finder** *(Ongoing)*  
+- 💼 **Decentralized Job Finder** 
   Platform connecting job seekers directly with employers.  
 
 ##  GitHub Stats
