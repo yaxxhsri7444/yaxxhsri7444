@@ -1,51 +1,51 @@
-# Hi there, I'm Saksham Srivastava! 👋
+# 👋 Hi, I'm Saksham Srivastava  
 
-🌱 **3rd Year BCA Student** | Aspiring **Full-Stack MEAN Developer**
-
----
-
-## 🚀 About Me
-
-- 🎯 Currently diving deep into the MEAN stack  
-- 📚 Learning **Data Structures & Algorithms (DSA)** and exploring **Artificial Intelligence (AI)**  
-- 💡 Always learning, building, and sharing knowledge  
-- 💻 Passionate about web development, open-source, and innovation  
+🚀 Passionate Full-Stack Developer | 🎓 BCA Graduate | 📍 India  
 
 ---
 
-## 🛠️ Tech Stack
+## 🎓 Education  
+- **Bachelor of Computer Applications (BCA)** — Completed in 2025 with **76.94%** from Dr. R.M.L.U, Ayodhya.  
 
-- **Frontend:** AngularJS, Angular (v19), HTML, CSS, Bootstrap  
+---
+
+## 💻 Skills  
+- **Frontend:** Angular, AngularJS, HTML, CSS, Bootstrap  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Other Languages:** Python (basic), C (basic)  
+- **Databases:** MongoDB  
+- **Languages:** Java (DSA Learner), Python (Basic), C (Basic)  
+- **Other:** REST APIs, Git & GitHub, Responsive Web Design  
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Projects  
 
-- 🎵 [Spotify Clone](#)  
-- 🛒 [E-Commerce Website](#)  
-- 📚 [E-Learning Platform](#) _(in progress)_  
-- 💼 [Decentralized Job Finder](#) _(in progress)_  
+### 📌 Spotify Clone  
+🎶 A music streaming web app with playlist & player UI.  
 
-> _Check out my pinned repositories below for project details!_
+### 📌 E-commerce Website  
+🛒 Full-stack shopping website with cart, checkout, and product management.  
 
----
+### 📌 E-learning Platform 
+🎓 MEAN Stack platform for online courses with progress tracking, assignments, and student dashboards.  
 
-## ⚡ Fun Facts & Interests
-
-- 🏏 Huge fan of **RCB** and **Virat Kohli** 🔥  
-- 💪 Fitness enthusiast — working out at home with dumbbells and stretch tube  
+### 📌 Decentralized Job Finder   
+💼 Connecting job seekers and employers directly, built on the MEAN stack.  
 
 ---
 
-## 📫 Connect with Me
+## 📊 GitHub Stats  
+![Saksham's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaxxhsri7444&show_icons=true&theme=radical)  
 
-- [LinkedIn](https://www.linkedin.com/in/saksham-srivastava-343088255)  
-- [GitHub](https://github.com/yaxxhsri7444)  
-- 📧 [srivastavasaksham243@gmail.com](mailto:srivastavasaksham243@gmail.com)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaxxhsri7444&layout=compact&theme=radical)  
 
 ---
 
-_Thanks for stopping by! Let's connect and build something amazing together._
+## 🌐 Connect with Me  
+- 📧 Email: [srivastavasaksham243@gmail.com](mailto:srivastavasaksham243@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/saksham-srivastava-343088255](https://www.linkedin.com/in/saksham-srivastava-343088255)  
+- 💻 GitHub: [yaxxhsri7444](https://github.com/yaxxhsri7444)  
+
+---
+
+⭐ *Always learning, building, and growing as a developer!* ⭐
