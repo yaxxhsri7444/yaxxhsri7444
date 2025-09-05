@@ -1,14 +1,26 @@
 <h1 align="center">👋 Hey, I'm Saksham Srivastava</h1>
-<h3 align="center">🎓 BCA Graduate (76.94%) | Full-Stack (MEAN) Developer</h3>
 
 ---
 
-##  About Me
-- **Education**: Bachelor of Computer Applications (BCA) — 76.94%, Dr. R.M.L.U., Ayodhya  
-- **Passion**: Building full-stack web apps using MEAN stack, learning DSA in Java  
-- **Goal**: Become a standout MEAN Stack Developer
+## 🧑‍💻 About Me  
+- 🎓 **BCA Graduate (76.94%)** from Dr. R.M.L.U, Ayodhya (2025).  
+- 💻 Passionate about building **Full Stack MEAN applications**.  
+- 📚 Currently learning **Data Structures & Algorithms in Java**.  
+- 🚀 Goal: To become an **industry-ready MEAN Stack Developer**.  
+- ⚡ Fun fact: I love to teach coding as well as learn new technologies every day!  
 
 ---
+
+## 🎨 Portfolio  
+
+🚀 Explore my personal portfolio website hosted on Firebase:  
+👉 [saksham-angular-hosting.firebaseapp.com/hero](https://saksham-angular-hosting.firebaseapp.com/hero)  
+
+<p align="center">
+  <a href="https://saksham-angular-hosting.firebaseapp.com/hero" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit Portfolio-FF5722?style=for-the-badge&logo=angular&logoColor=white" alt="Portfolio Badge">
+  </a>
+</p>
 
 ##  Tech Stack
 
@@ -30,19 +42,6 @@
 
 ---
 
-## 🎨 Portfolio  
-
-🚀 Check out my personal portfolio website hosted on Firebase:  
-👉 [saksham-angular-hosting.firebaseapp.com/hero](https://saksham-angular-hosting.firebaseapp.com/hero)  
-
-<p align="center">
-  <a href="https://saksham-angular-hosting.firebaseapp.com/hero" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Visit Portfolio-FF5722?style=for-the-badge&logo=angular&logoColor=white" alt="Portfolio Badge">
-  </a>
-</p>
-
----
-
 ## 📌 Featured Projects  
 
 <p align="center">
@@ -56,7 +55,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yaxxhsri7444/e-learning-platform">
+  <a href="https://github.com/yaxxhsri7444/E-learning-APP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaxxhsri7444&repo=e-learning-platform&theme=tokyonight" />
   </a>
   
