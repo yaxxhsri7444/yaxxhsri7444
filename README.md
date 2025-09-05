@@ -22,48 +22,45 @@
   </a>
 </p>
 
-##  Tech Stack
+## 🛠 Tech Stack  
 
-### Frontend
+### 🌐 Frontend  
 ![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)  
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=for-the-badge&logo=ngrx&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
-### Backend & DB
+### ⚙️ Backend & Databases  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-800?style=for-the-badge&logo=mongoose&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)  
 
-### Languages
+### 🔤 Languages & Tools  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-FF4081?style=for-the-badge&logo=testinglibrary&logoColor=white)  
 
 ---
 
 ## 📌 Featured Projects  
 
-<p align="center">
-  <a href="https://github.com/yaxxhsri7444/spotify-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaxxhsri7444&repo=spotify-clone&theme=tokyonight" />
-  </a>
-  
-  <a href="https://github.com/yaxxhsri7444/ecommerce-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaxxhsri7444&repo=ecommerce-website&theme=tokyonight" />
-  </a>
-</p>
+- 🎶 **Spotify Clone**  
+  A music streaming clone with playlist and player features.  
 
-<p align="center">
-  <a href="https://github.com/yaxxhsri7444/E-learning-APP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaxxhsri7444&repo=e-learning-platform&theme=tokyonight" />
-  </a>
-  
-  <a href="https://github.com/yaxxhsri7444/decentralized-job-finder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yaxxhsri7444&repo=decentralized-job-finder&theme=tokyonight" />
-  </a>
-</p>
+- 🛒 **E-commerce Website**  
+  Shopping platform with cart, checkout, and product management.  
 
+- 🎓 **E-learning App** *(Ongoing)*  
+  Course management system with assignments and student dashboards.  
+
+- 💼 **Decentralized Job Finder** *(Ongoing)*  
+  Platform connecting job seekers directly with employers.  
 
 ##  GitHub Stats
 
