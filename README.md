@@ -90,6 +90,11 @@
 | 🛒 **E-commerce Website** | Shopping site with cart, checkout & admin |
 | 🎓 **E-learning Platform** | Courses, assignments, dashboards for students |
 | 💼 **Decentralized Job Finder** | Job seekers & employers — direct connection |
+| 🤖 **Ask-AI** | Full-stack AI Q&A app (Angular + Tailwind + Node/Express) that gives real-time responses from an AI backend |
+| 📊 **Visualize-It** | Interactive data visualization platform with charts & graphs for easy data insights |
+| 🏥 **HealAi** | Smart healthcare assistant that uses AI for health suggestions & symptom tracking |
+| 👟 **Solemine** | Full-stack footwear e-commerce platform with product listings, cart, checkout & admin dashboard |
+
 
 ---
 
