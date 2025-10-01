@@ -15,10 +15,11 @@
 
 - 🎓 **BCA Graduate (76.94%)** — Dr. R.M.L.U, Ayodhya (2025)  
 - 💻 Passionate **Full Stack Developer** — specialized in **MEAN & MERN stacks**  
-- 🧠 Currently mastering **DSA in Java** & advanced backend architectures  
+- 🧩 Experienced in building **AI-powered tools** and working with modern APIs for smart features  
+- 🔥 Currently mastering **DSA in Java** & exploring **AI & Machine Learning**
 - 🧑‍🏫 I also teach coding — because sharing knowledge makes me better too  
-- 🚀 Ambition: To build impactful products that solve real-world problems  
-- ⚡ Fun fact: I learn something new in tech **every single day** 🌱  
+- 🚀 Ambition: To build impactful products that solve real-world problems using AI + Full Stack  
+- ⚡ Fun fact: I learn something new in tech **every single day** 🌱
 
 ---
 
