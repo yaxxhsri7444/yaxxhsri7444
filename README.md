@@ -26,10 +26,9 @@
 ## 🌐 Portfolio  
 
 🎨 **Check out my personal portfolio:**  
-👉 [saksham-angular-hosting.firebaseapp.com/hero](https://saksham-angular-hosting.firebaseapp.com/hero)  
 
 <p align="center">
-  <a href="https://saksham-angular-hosting.firebaseapp.com/hero" target="_blank">
+  <a href="https://mt6todde.pinit.eth.limo/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Visit Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio Badge">
   </a>
 </p>
