@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-> **Turning ideas into scalable, intelligent web applications** ✨
+**Turning ideas into scalable, intelligent web applications** ✨
 
 </div>
 
@@ -259,10 +259,10 @@ graph LR
     A --> D[AI Integration]
     
     B --> E[Problem Solving]
-    C --> F[AI]
+    C --> F[Advanced Frameworks]
     D --> G[OpenAI API]
     
-    E --> H[🚀 Goal: Senior Full Stack Web Developer]
+    E --> H[🚀 Goal: Senior Full Stack Developer]
     F --> H
     G --> H
     
