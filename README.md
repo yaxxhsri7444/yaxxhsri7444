@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm <span style="background: linear-gradient(45deg, #FF5722, #FF9800); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Saksham Srivastava</span>
+# 👋 Hi, I'm Saksham Srivastava
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF5722&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MEAN+%26+MERN+Specialist+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Building+Intelligent+Web+Apps+%E2%9C%A8" alt="Typing SVG" />
 
@@ -124,7 +124,8 @@ const saksham = {
 
 ### 🎶 Spotify Clone
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)
-> Full-featured music streaming app with playlists, player controls, and beautiful UI
+
+Full-featured music streaming app with playlists, player controls, and beautiful UI
 
 **Tech:** React, Node.js, MongoDB
 
@@ -133,7 +134,8 @@ const saksham = {
 
 ### 🛒 E-commerce Platform
 ![Commerce](https://img.shields.io/badge/E--Commerce-FF6B6B?style=flat-square&logo=shopify&logoColor=white)
-> Complete shopping solution with cart, payments, and admin dashboard
+
+Complete shopping solution with cart, payments, and admin dashboard
 
 **Tech:** MEAN Stack, Stripe API
 
@@ -145,7 +147,8 @@ const saksham = {
 
 ### 🎓 E-Learning Platform
 ![Education](https://img.shields.io/badge/Education-4CAF50?style=flat-square&logo=google-classroom&logoColor=white)
-> Interactive learning platform with courses, quizzes, and progress tracking
+
+Interactive learning platform with courses, quizzes, and progress tracking
 
 **Tech:** MERN Stack, Socket.io
 
@@ -154,7 +157,8 @@ const saksham = {
 
 ### 💼 Decentralized Job Finder
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white)
-> Direct connection platform between recruiters and candidates
+
+Direct connection platform between recruiters and candidates
 
 **Tech:** Angular, Web3.js, Smart Contracts
 
@@ -166,7 +170,8 @@ const saksham = {
 
 ### 🤖 Ask-AI
 ![AI](https://img.shields.io/badge/AI_Powered-FF5722?style=flat-square&logo=openai&logoColor=white)
-> Intelligent Q&A application with real-time AI responses
+
+Intelligent Q&A application with real-time AI responses
 
 **Tech:** Angular, Tailwind, Node.js, OpenAI
 
@@ -175,7 +180,8 @@ const saksham = {
 
 ### 📊 Visualize-It
 ![DataViz](https://img.shields.io/badge/Data_Viz-9C27B0?style=flat-square&logo=chartdotjs&logoColor=white)
-> Interactive data visualization and analytics platform
+
+Interactive data visualization and analytics platform
 
 **Tech:** React, D3.js, Chart.js
 
@@ -187,7 +193,8 @@ const saksham = {
 
 ### 🏥 HealAi
 ![Healthcare](https://img.shields.io/badge/Healthcare-00BCD4?style=flat-square&logo=health&logoColor=white)
-> Smart healthcare assistant with AI-powered insights
+
+Smart healthcare assistant with AI-powered insights
 
 **Tech:** Python, TensorFlow, React
 
@@ -196,7 +203,8 @@ const saksham = {
 
 ### 👟 Solemine
 ![Ecommerce](https://img.shields.io/badge/Footwear-FF9800?style=flat-square&logo=nike&logoColor=white)
-> Full-stack footwear e-commerce platform
+
+Full-stack footwear e-commerce platform
 
 **Tech:** MERN Stack, Payment Gateway
 
