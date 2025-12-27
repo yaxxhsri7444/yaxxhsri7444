@@ -255,14 +255,14 @@ Full-stack footwear e-commerce platform
 ```mermaid
 graph LR
     A[🎯 Current Focus] --> B[DSA in Java]
-    A --> C[Machine Learning]
+    A --> C[Full-Stack Development]
     A --> D[AI Integration]
     
     B --> E[Problem Solving]
-    C --> F[TensorFlow]
+    C --> F[AI]
     D --> G[OpenAI API]
     
-    E --> H[🚀 Goal: Senior Developer]
+    E --> H[🚀 Goal: Senior Full Stack Web Developer]
     F --> H
     G --> H
     
