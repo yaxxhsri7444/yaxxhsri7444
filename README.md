@@ -252,22 +252,20 @@ Full-stack footwear e-commerce platform
 
 <div align="center">
 
-```mermaid
-graph LR
-    A[🎯 Current Focus] --> B[DSA in Java]
-    A --> C[Full-Stack Development]
-    A --> D[AI Integration]
-    
-    B --> E[Problem Solving]
-    C --> F[Advanced Frameworks]
-    D --> G[OpenAI API]
-    
-    E --> H[🚀 Goal: Senior Full Stack Developer]
-    F --> H
-    G --> H
-    
-    style A fill:#FF5722,stroke:#FF9800,color:#fff
-    style H fill:#4CAF50,stroke:#8BC34A,color:#fff
+| 🎯 Current Focus | 📚 Learning Path | 🚀 Goal |
+|:----------------|:----------------|:--------|
+| **DSA in Java** | Problem Solving & Algorithms | Senior Full Stack Developer |
+| **Full-Stack Development** | Advanced MEAN & MERN | Scalable Architecture Expert |
+| **AI Integration** | OpenAI API & ML Basics | AI-Powered Applications |
+
+<br/>
+
+### 📈 Skill Progression
+
+```
+Beginner ████████░░ Intermediate ████████░░ Advanced ████████░░ Expert
+   │                    │                    │              │
+   └─ Fundamentals      └─ Current Level     └─ Target      └─ Mastery
 ```
 
 </div>
